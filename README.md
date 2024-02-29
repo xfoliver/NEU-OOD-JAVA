@@ -1,6 +1,5 @@
 # NEU-OOD-JAVA
 
-These are northeastern OOD course's assignment
 Klondike Game 
 •	Developed the classic Klondike card game using Java, employing the MVC design pattern. 
 •	This project enhanced understanding of MVC architecture in game development and implemented core game operations and gameplay.
